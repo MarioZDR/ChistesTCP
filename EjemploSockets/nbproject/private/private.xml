@@ -3,10 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Descargas%20Navegador/KnockKnock/EjemploSockets/src/ejemplosockets/TestRemote.java</file>
-            <file>file:/D:/Descargas%20Navegador/KnockKnock/EjemploSockets/src/ejemplosockets/KnockKnockServer.java</file>
-            <file>file:/D:/Descargas%20Navegador/KnockKnock/EjemploSockets/src/ejemplosockets/KnockKnockClientManager.java</file>
-            <file>file:/D:/Descargas%20Navegador/KnockKnock/EjemploSockets/src/ejemplosockets/KnockKnockProtocol.java</file>
+            <file>file:/D:/Descargas%20Navegador/KnockKnock/ChistesTCP/EjemploSockets/src/ejemplosockets/KnockKnockClientManager.java</file>
+            <file>file:/D:/Descargas%20Navegador/KnockKnock/ChistesTCP/EjemploSockets/src/ejemplosockets/TestRemote.java</file>
+            <file>file:/D:/Descargas%20Navegador/KnockKnock/ChistesTCP/EjemploSockets/src/ejemplosockets/KnockKnockServer.java</file>
+            <file>file:/D:/Descargas%20Navegador/KnockKnock/ChistesTCP/EjemploSockets/src/ejemplosockets/KnockKnockProtocol.java</file>
         </group>
     </open-files>
 </project-private>
